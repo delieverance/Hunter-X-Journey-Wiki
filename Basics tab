@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Hunter x Journey Wiki</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    header {
+      background-color: #222;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #333;
+      overflow: hidden;
+    }
+
+    nav a {
+      float: left;
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 20px;
+      text-decoration: none;
+    }
+
+    nav a:hover {
+      background-color: #575757;
+    }
+
+    .content {
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Hunter x Journey Wiki</h1>
+  </header>
+
+  <nav>
+
+    <a href="Basics.html">Basics</a>
+    <a href="hatsu.html">Hatsu</a>
+    <a href="fighting-style.html">Fighting Style</a>
+    <a href="weapon.html">Weapon</a>
+    <a href="nen.html">Nen</a>
+    <a href="foods.html">Foods</a>
+    <a href="clans.html">Clans</a>
+    <a href="factions.html">Factions</a>
+  </nav>
+
+  <div class="content">
+    <h2>Welcome to the Hunter x Journey Wiki</h2>
+    <p>Select a category from the menu to start exploring.</p>
+<br>
+<hr>
+<br>
+    <h1>What is Hunter X Journey?</h1>
+	<p><b>A lore-driven Hunter x Hunter Roblox game where your</p>
+	<p>choices shape the world. Join powerful factions,</p>
+	<p>uncover lost Nen secrets, and forge your path in a world</p>
+	<p>full of danger, mystery, and legacy.</b></p>
+<br>
+<hr>
+<br>
+    <h1>Controls Guide</h1>
+<p>
+<b>
+	M1 - Light Attack
+	 <br>
+	Jump + M1 - Air Counter
+	 <br>
+	 M2 - Heavy Attack
+	 <br>
+	Jump + M2 - Guard Break
+	 <br>
+	F - Block
+	 <br>
+	 Q - Dash
+	 <br>
+	Ctrl - Crouch
+	 <br>
+	M - Menu
+	 <br>
+	Space - Jump
+	 <br>
+	Space + Space - Double Jump
+	 <br>
+	Left Alt - Nen Wheel
+</b>
+</p>
+
+<br>
+<hr>
+<br>
+
+<h1>How to Start Off?</h1>
+
+  </div>
+
+</body>
+</html>
